@@ -11,6 +11,8 @@ var usersRouter = require('./routes/users');
 
 console.log('implemented login');
 
+console.log('core feature');
+
 var app = express();
 console.log('hi');
 console.log('hi');
