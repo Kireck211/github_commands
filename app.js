@@ -9,6 +9,8 @@ var sassMiddleware = require('node-sass-middleware');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
+console.log('implemented login');
+
 var app = express();
 console.log('hi');
 console.log('hi');
