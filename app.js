@@ -12,6 +12,7 @@ var usersRouter = require('./routes/users');
 console.log('implemented login');
 
 console.log('core feature');
+console.log('social login implemented');
 
 var app = express();
 console.log('hi');
